@@ -1,1 +1,1 @@
-# gwu-data-science-assignment-matplotlib
+# Analyzing CSV Data With Matplotlib
