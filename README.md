@@ -5,26 +5,14 @@ Here we are analyzing druf trial data. We get data from two CSV files that conta
 ## Merged Driver & City Data
 ![Merged_Driver_City_Data](Images/Merged_Driver_City_Data.png)
 
-## Mean Tumor Volume
-![Purchasing_Analysis](Images/Mean_Tumor_Volume.png)
+## Ride Sharing Bubble Plot
+![Bubble_Plot](Images/Ride_Sharing_Bubble_Plot.png)
 
-## Gender Demographics
-![Gender_Demographics](Images/Tumor_Volume_Standard_Error.png)
+## Percent Fares By City Type
+![Percent_Fares_By_City_Type](Images/Percent_Fares_City_Type.png)
 
-## Purchase Analysis by Gender
-![Purchasing_Analysis_Gender](Images/Purchase_Analysis_Gender.png)
+## Percent Rides By City Type
+![Percent_Fares_By_City_Type](Images/Percent_Rides_City_Type.png)
 
-## Age Demographics
-![Age_Demograhics](Images/Age_Demographics.png)
-
-## Purchase Analysis by Age
-![Purchasing_Analysis_Age](Images/Purchase_Analysis_Age.png)
-
-## Top Spenders
-![Top_Spenders](Images/Top_Spenders.png)
-
-## Most Popular Video Games
-![Most_Popular_Games](Images/Most_Popular_Items.png)
-
-## Most Profitable Video Games
-![Most_Profitable_Games](Images/Most_Profitable_Items.png)
+## Percent Fares By City Type
+![Percent_Fares_By_City_Type](Images/Percent_Fares_City_Type.png)
