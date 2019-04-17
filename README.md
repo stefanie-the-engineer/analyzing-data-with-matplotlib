@@ -1,6 +1,5 @@
 # Analyzing CSV Data With Matplotlib
 
-Here we are analyzing druf trial data. We get data from two CSV files that contain information on trials performed on mice in the laboratory information.  Using this data, we will use Matplotlib & Pandas to calculate the following:
 
 ## Merged Driver & City Data
 ![Merged_Driver_City_Data](Images/Merged_Driver_City_Data.png)
